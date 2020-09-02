@@ -57,7 +57,7 @@ It is all interesting to me as long as it is developed using Python. </h5>
                         6 hrs 27 mins
                     </td>
                     <td width=230px;>
-                        ████░░░░░░&nbsp;&nbsp;(37.62%)
+                        █████░░░░░&nbsp;&nbsp;(45.78%)
                     </td>
                 </tr>
                   <tr>
