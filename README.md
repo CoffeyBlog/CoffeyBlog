@@ -1,4 +1,4 @@
-<h1>I am Lucas, I ❤️ Python and I ❤️ Data.</h1>
+<h1>Hello, I am Lucas, I ❤️ Python and I ❤️ Data.</h1>
 <h4>I am a Veteran of the Kentucky Air National Guard and graduate of Southern New Hampshire University’s Information 
 Technology - Web Development program, I also have an Associates Degree in Business.
 <br><br>
