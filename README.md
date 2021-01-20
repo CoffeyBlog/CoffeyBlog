@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Lucas Coffey,
 
-A Cloud Solutions Architect and Engineer passionate about Big Data.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A Cloud Solutions Architect and Cloud Engineer passionate about building Cloud systems, particularly on AWS. 
 
 
 - ⚡ **Fun fact:** I am a Veteran of the Kentucky Air National Guard. I was a part-time Crew Chief on C-130H while attending flight school to become a Commercial Pilot.
