@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Lucas Coffey,
 
-A Cloud Native-Applications Developer, particularly on AWS. 
+an MLOps Engineer, at Accenture. - The projects, comments or "stuff" that I do / say does not reflect the opinion of my employer. 
 
 - ⚡ **Fun fact:** I am a Veteran of the Kentucky Air National Guard. I was a part-time Crew Chief on C-130H while attending flight school to become a Commercial Pilot.
 - :bulb: I'm interested in all things Cloud: Cloud Architecture, Cloud Engineering and building Cloud-Native Web Applications & Web Development.  
