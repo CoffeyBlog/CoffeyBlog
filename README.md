@@ -5,9 +5,10 @@
 an AWS Cloud Engineer interested in Data, ML and Data Vizualization. 
 
 - ⚡ **Fun fact:** I am a Veteran of the Kentucky Air National Guard. I was a part-time Crew Chief on C-130H while attending flight school to become a Commercial Pilot.
-- :bulb: I'm interested in all things Cloud: Cloud Architecture, Cloud Engineering and building Cloud-Native Web Applications & Web Development.  
-- 💬 Talk to me about Aviation, Python, College Football or anything that interests you.
-- 🌱 I’m currently pursuing the AWS Developer Cert and trying to get better at programming after a year off due to COVID.
+- 💡: I'm interested in all things Machine Learning and Data.  
+- 💬 Talk to me about Machine Learning, Data Engineering, Aviation, Python or anything that interests you.
+- 🌱 I’m currently pursuing the AWS Developer Cert.
+- 📋 I hold the following certifications: AZ-900, AI-900, AWS CLF-C01, AWS SAA-C02   
 
 
 
